@@ -1,0 +1,30 @@
+ID: 234389First Name: John
+Last Name: Mahn
+Campus: Auckland
+Study: Game Programming
+Email:John_Mahn@yoobeecolleges.com 
+
+ID: 561923First Name: Bob
+Last Name: Lard
+Campus: Christchurch
+Study: Data Science
+Email:Bob_Lard@yoobeecolleges.com 
+
+ID: 101800First Name: Emily
+Last Name: Ghin
+Campus: Auckland
+Study: Cloud Computing
+Email:Emily_Ghin@yoobeecolleges.com 
+
+ID: 969322First Name: Jack
+Last Name: Twiller
+Campus: Wellington
+Study: Data Science
+Email:Jack_Twiller@yoobeecolleges.com 
+
+ID: 124186First Name: Jon
+Last Name: Plint
+Campus: Auckland
+Study: Networking
+Email:Jon_Plint@yoobeecolleges.com 
+
